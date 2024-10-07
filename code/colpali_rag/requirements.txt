@@ -1,0 +1,16 @@
+sentence-transformers==3.0.0
+transformers==4.46.0.dev0
+pytorch-lightning==2.4.0
+pytorch-triton==3.0.0+45fff310c8
+torch==2.3.0
+torchaudio==2.3.0
+torchmetrics==1.4.1
+torchvision==0.18.0
+colpali_engine==0.3.0
+chainlit==1.2.0
+langchain==0.3.0
+langchain-core==0.3.5
+pillow==10.3.0
+pillow_heif==0.16.0
+qwen-vl-utils==0.0.8
+pdf2image==1.17.0

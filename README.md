@@ -100,7 +100,3 @@ Got an exciting use case or integration with this project? Share it on LinkedIn 
 
 > Created with ❤️ by Yash Bhardwaj.  
 > Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yashbhardwaj19/) for more insights into AI.
-
----
-
-This README aims to make the project sound intriguing and useful, offering enough information to entice users to try it out while keeping the technical aspects accessible. You can replace the placeholders with your images and links to enhance engagement on LinkedIn!
